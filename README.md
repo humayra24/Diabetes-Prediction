@@ -28,7 +28,7 @@ The project is done using Python in the Windows operating system. It is for the 
 
 • Software requirements of this project are Python, Anaconda, IDE, and Web Browser.
 
-• Python libraries and frameworks used in case of our project are Pandas, Numpy, Sklearn, and Django.
+• Python libraries and frameworks used in the case of the project are Pandas, Numpy, Sklearn, and Django.
 
 • The system can be used in case of emergency.
 
