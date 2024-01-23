@@ -32,9 +32,9 @@ The project is done using Python in the Windows operating system. It is for the 
 
 • The system can be used in case of emergency.
 
-## Project Presentation Slide
+<!-- ## Project Presentation Slide -->
 <!-- Upload the project presentation slide in GitHub in pdf format and drop a link here. The current link is a dummy one. -->
-[Here](https://drive.google.com/file/d/1REynsot7at5AdkLZCHyS7u4i4H4wt_jm/view?usp=sharing) is the presentation slide of the project.
+<!-- [Here](https://drive.google.com/file/d/1REynsot7at5AdkLZCHyS7u4i4H4wt_jm/view?usp=sharing) is the presentation slide of the project.-->
 
 Technical Documentation/ Instruction to Deploy the Project
 ----------------------------------------------------------
